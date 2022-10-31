@@ -1,5 +1,5 @@
 # ShapeBoard
-Allow user to display and drag the provided shapes
+Allow user to display and move the provided shapes
 
 ## Limitations
 Can only display one shape each time\
